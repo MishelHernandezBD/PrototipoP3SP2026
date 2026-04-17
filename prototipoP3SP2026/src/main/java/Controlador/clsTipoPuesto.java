@@ -1,3 +1,5 @@
+//  creado por britany mishel Hernendez Davila 9959-24-4178
+
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
@@ -9,11 +11,12 @@ package Controlador;
  * @author Mishel
  */
 public class clsTipoPuesto {
-    
+   //Atributos 
     private int idTipoPuesto;
     private String nombrePuesto; 
     private double salario;
 
+    //Constructores
     public clsTipoPuesto() {
     }
 
@@ -55,7 +58,4 @@ public class clsTipoPuesto {
     public String toString() {
         return "clsTipoPuesto{" + "idTipoPuesto=" + idTipoPuesto + ", nombrePuesto=" + nombrePuesto + ", salario=" + salario + '}';
     }
-    
-    
-    
 }
