@@ -24,10 +24,10 @@
  * ============================================================
  */
 
-package modelo;
+package Modelo;
 
-import controlador.clsAplicaciones;
-import controlador.clsUsuarioConectado;
+import Controlador.clsAplicaciones;
+import Controlador.clsUsuarioConectado;
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;

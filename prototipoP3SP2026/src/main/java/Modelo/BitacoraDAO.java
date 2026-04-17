@@ -1,6 +1,8 @@
-package modelo;
+//Documentación: Astrid Fernanda Ruíz López 9959 24 2976
+//Astrid modificó los métodos y el método insert
+package Modelo;
 
-import controlador.clsBitacora;
+import Controlador.clsBitacora;
 import java.net.InetAddress;
 import java.net.UnknownHostException;
 import java.sql.Connection;

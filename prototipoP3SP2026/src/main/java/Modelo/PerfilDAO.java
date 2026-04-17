@@ -1,7 +1,7 @@
-package modelo;
+package Modelo;
 
-import controlador.clsPerfil;
-import controlador.clsBitacora;
+import Controlador.clsPerfil;
+import Controlador.clsBitacora;
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;

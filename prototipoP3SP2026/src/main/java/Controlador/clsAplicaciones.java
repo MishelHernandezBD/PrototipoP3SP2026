@@ -1,5 +1,5 @@
 //Anthony Suc marzo 2026
-package controlador;
+package Controlador;
 
 public class clsAplicaciones {
 

@@ -1,12 +1,22 @@
-package modelo;
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+//Marco. Hernandez 9959-24-6201 
+//Marco. Hernandez 24-marzo-2026 1. mantenimiento agregar utilidad de bitacora *posible fallo en login BD no acepta id "foreign key fails"e
+//Marco. Hernandez 26-marzo-2026 2. Mantenimiento bitacora, CRUD implementado 
+//Marco. Hernandez 29-marzo-2026 3. Revision, mantenimineto 
+package Modelo;
 
 
-import controlador.clsUsuario;
+import Controlador.clsUsuario;
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
-import modelo.BitacoraDAO;
-import controlador.clsUsuarioConectado;
+import Modelo.BitacoraDAO;
+import Controlador.clsUsuarioConectado;
 
 /**
  *

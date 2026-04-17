@@ -1,5 +1,5 @@
 
-package controlador;
+package Controlador;
 
 import java.io.UnsupportedEncodingException;
 import java.util.Base64;
